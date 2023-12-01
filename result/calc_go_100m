@@ -1,0 +1,4 @@
+Benchmark 1: curl localhost:3000/calc
+  Time (mean ± σ):      28.1 ms ±   0.7 ms    [User: 4.1 ms, System: 1.0 ms]
+  Range (min … max):    27.1 ms …  30.8 ms    101 runs
+ 

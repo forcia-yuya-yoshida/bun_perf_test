@@ -5,7 +5,7 @@ app.get("/", () => "Hello World!");
 
 app.get("/calc", () => {
   let x = 0;
-  for (let i = 1; i < 100000000; i++) {
+  for (let i = 0; i < 100000000; i++) {
     x++;
   }
   return x;

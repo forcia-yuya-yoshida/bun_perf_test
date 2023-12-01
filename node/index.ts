@@ -7,7 +7,7 @@ fastify.get("/", (_, reply) => {
 
 fastify.get("/calc", (_, reply) => {
   let x = 0;
-  for (let i = 1; i < 100000000; i++) {
+  for (let i = 0; i < 100000000; i++) {
     x++;
   }
   reply.send(x);
