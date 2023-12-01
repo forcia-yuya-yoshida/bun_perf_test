@@ -1,7 +1,7 @@
 # hello_world
 - hyperfine 'curl localhost:3000'
 
-# calc
+# calc_10m
 - (ループ回数を10000000に)
 - hyperfine 'curl localhost:3000/calc'
 

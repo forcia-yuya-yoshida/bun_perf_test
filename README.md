@@ -1,1 +1,1 @@
-RESULT WO MITEKURE
+# SEE result/
